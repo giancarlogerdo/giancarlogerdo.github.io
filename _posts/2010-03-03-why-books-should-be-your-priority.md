@@ -49,7 +49,7 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 
 ## Code
 
-Cum sociis natoque penatibus et magnis dis `FONDO BLANCO` montes, nascetur ridiculus mus.
+Cum sociis natoque penatibus et magnis dis `FONDO NEGRO` montes, nascetur ridiculus mus.
 
 ## Estilo Consola
 ```js

@@ -20,13 +20,14 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Blog
+    url: /category/Blog/
   - title: Try Hack Me
     url: /category/TryHackMe/
   - title: Hack The Box
     url: /category/HackTheBox/
-    
+  #- title: Feed
+    #url: /feed.xml
     
 email: manuelfermin131@gmail.com
 # See: https://disqus.com/

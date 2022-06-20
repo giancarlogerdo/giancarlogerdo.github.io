@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2022-6-20 05:10:40
 layout: post
 title: Titulo
 subtitle: Subtitilo
@@ -14,11 +14,11 @@ author: thiagorossener
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Cas sociis natoque penatibus et magnis <a href="#">TEXTO EN COLOR ROJO</a>, nascetur ridiculus mus. *Cursiva* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Comandos.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Etiam porta **NEGRITA** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 <!--page-->
 

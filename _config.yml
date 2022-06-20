@@ -19,8 +19,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-  - title: Writeups
-    url: /
 email: manuelfermin131@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_pJRvuevO3e

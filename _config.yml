@@ -22,8 +22,10 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-  - title: Code
-    url: /category/code/
+  - title: Try Hack Me
+    url: /category/TryHackMe/
+  - title: Hack The Box
+    url: /category/HackTheBox/
     
     
 email: manuelfermin131@gmail.com

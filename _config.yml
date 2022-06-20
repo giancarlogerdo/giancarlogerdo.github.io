@@ -4,11 +4,14 @@ title: Hunt3r | A personal blog
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Blog
+  - Crypto
+  - Forensics
+  - Linux
+  - Windows
+  - OSINT
+  - Web
+  
 show_hero: true
 menu:
   - title: Home

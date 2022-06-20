@@ -19,6 +19,10 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Code
+    url: /category/code/
+    
+    
 email: manuelfermin131@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_pJRvuevO3e

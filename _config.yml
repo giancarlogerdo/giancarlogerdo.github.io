@@ -1,6 +1,6 @@
 # Site Settings
 name: Hunt3r
-title: Hunt3r | A blog theme for Jekyll
+title: Hunt3r | A personal blog
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -32,9 +32,9 @@ formspree_form_id: formspree_form_id
 github_username: giancarlogerdo
 #facebook_username: facebook_username
 twitter_username: giancarlogerdo
-instagram_username: instagram_username
+#instagram_username: instagram_username
 linkedin_username:  giancarlo-gerdo-sangiovanni
-medium_username: medium_username
+#medium_username: medium_username
 
 
 # Posts Settings

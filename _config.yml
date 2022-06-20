@@ -18,14 +18,14 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
   - title: Blog
     url: /category/Blog/
   - title: Try Hack Me
     url: /category/TryHackMe/
   - title: Hack The Box
     url: /category/HackTheBox/
+  - title: Contact
+    url: /contact
   #- title: Feed
     #url: /feed.xml
     

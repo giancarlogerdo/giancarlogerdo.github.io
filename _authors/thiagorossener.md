@@ -1,15 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: /assets/img/uploads/pictureprofilehtb.png
+name: Hunt3r
+display_name: Giancarlo Gerdo
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Just a Cybersecurity Student.
+github_username: giancarlogerdo
+facebook_username: 
+twitter_username: giancarlogerdo
+instagram_username: 
+linkedin_username: giancarlo-gerdo-sangiovanni
+medium_username: 
 ---
 

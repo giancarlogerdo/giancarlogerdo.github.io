@@ -13,7 +13,6 @@ optimized_image: >-
 category: Blog
 tags:
   - welcome
-  - blog
 author: Hunt3r
 paginate: true
 ---

@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="[pictureprofilehtb](https://user-images.githubusercontent.com/72806718/174650388-3845d57f-7088-44cd-81e9-9888aa75713f.png)" alt="Hunt3r" width="200">
+<img class="img-rounded" src="https://user-images.githubusercontent.com/72806718/174650388-3845d57f-7088-44cd-81e9-9888aa75713f.png" alt="Hunt3r" width="200">
 
 # About
 

@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/pictureprofilehtb.png
-name: Hunt3r
+name: Gian
 display_name: Giancarlo Gerdo
 position: Chief Editor
 bio: Just a Cybersecurity Student.
